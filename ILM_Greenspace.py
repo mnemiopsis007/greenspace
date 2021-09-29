@@ -3,7 +3,7 @@ import cv2
 import os
 import matplotlib.pyplot as plt
 
-os.chdir('/Users/mnemiopsis/Desktop/ILMGreenSpace/AzyImages')
+os.chdir('NEED TO INSERT FILE PATH TO ILM_Images Folder')
 
 filename = 'j14.png'
 
